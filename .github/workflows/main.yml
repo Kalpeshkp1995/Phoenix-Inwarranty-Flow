@@ -10,7 +10,7 @@ on:
 
 jobs:
   run-tests:
-    runs-on: ubuntu-latest
+    runs-on: ec2_github_runner
 
     steps:
       - name: Checkout Code
