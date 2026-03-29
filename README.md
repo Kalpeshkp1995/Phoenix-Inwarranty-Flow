@@ -6,14 +6,14 @@ Github action will trigger the project execution on every push to the main branc
 The HTML is archieved and kept in the artfact section for the team to download it . Along with that hey can view and report directly from github page :https://kalpeshkp1995.github.io/Phoenix-Inwarranty-Flow/
 The latest report is mailed to the team members using GMAIL SMTP.
 
-## 🚀 About Me
+##  About Me ##
 Hi My Name is Kalpesh Patil and I have 4 years of experience in Automation Testing using technologies like Selenium Webdriver , RestAssured , Playwright with Typescript , CI CD 
 
-## Author
+## Author ##
 - [@Kalpeshkp1995](https://github.com/Kalpeshkp1995)
 - EmailAddress: patilkalpeshkp95@gmail.com
 
-## 🔗 Links
+## Links ##
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Kalpeshkp1995)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpeshkp1995/)
